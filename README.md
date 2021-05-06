@@ -9,6 +9,7 @@ aquí se declaran y/o se inician variables
 BEGIN 
 
 aquí se escribe el cuerpo del código 
+
 END;
 /
 
